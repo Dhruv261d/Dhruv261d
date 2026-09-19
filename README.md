@@ -89,11 +89,3 @@
 | **PaYiQ** | `React 19`, `Google Gemini Vision`, `KaTeX`, `Supabase` | Multimodal AI exam question paper segregator converting raw exam PDFs into standardized chapter-wise LaTeX question banks. | [Repository](https://github.com/Dhruv261d/PaYiQ) |
 | **Roomify** | `React`, `TypeScript`, `Puter Cloud`, `Claude/Gemini` | Generative AI SaaS transforming 2D architectural blueprints into photorealistic 3D structural visual renders. | [Repository](https://github.com/Dhruv261d/roomify) |
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv261d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv261d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
